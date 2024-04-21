@@ -1,0 +1,39 @@
+h1, h3, h4, h5{
+    color: red;
+}
+h2, h4{
+    text-align: center;
+}
+th{
+    text-align: left;
+}
+table, th, td{
+    padding: 10px 10px;
+    margin: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table{
+    width: 80%;
+}
+
+.author{
+    text-align: center;
+}
+a{
+    color: rgb(0, 119, 170);
+    text-decoration: none;
+}
+
+.top{
+    text-align: right;
+}
+.scroll-top{
+    border-radius: 50%;
+    width: 30px;
+    position: fixed;
+    bottom: 20px;
+}
+html {
+    scroll-behavior: smooth;
+}

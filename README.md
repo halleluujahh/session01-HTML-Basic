@@ -20,3 +20,6 @@
 - git remote add origin: Them lien ket giua kho local va kho server (github)
 - git push origin branch_name: Day code tu kho local len kho server
 
+## Ycau bai tap
+- Tao ra 3 file HTML bao gom home, lien he
+- Link tham khao: Home page:https://rikkei.edu.vn/visa-tokutei-la-gi/
